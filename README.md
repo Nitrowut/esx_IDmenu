@@ -8,6 +8,7 @@ FiveM - ID Menu for jsfour-idcard
 🌐 Requirements Download links
 - jsfour ID Cards (Required): https://forum.cfx.re/t/release-jsfour-idcard-esx/169787
 - esx_hunting (Optinal): https://mega.nz/file/1D5w1LoC#ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As
+  • (Mega.nz Key for Download: ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As)
 
 ✅ Features
 - Can show and look ID Card, Driving license and Weapon License
