@@ -1,16 +1,16 @@
 # ID Menu
 FiveM - ID Menu for jsfour-idcard
 
-🛠 <b>Requirements
+🛠 Requirements
 - ESX Server
 - jsfour ID Cards
 
-🌐 <b>Requirements Download links
+🌐 Requirements Download links
 - jsfour ID Cards (Required): https://forum.cfx.re/t/release-jsfour-idcard-esx/169787
 - esx_hunting (Optinal): https://mega.nz/file/1D5w1LoC#ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As
-- 🔑<b>(Mega.nz Key for Download: ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As)<b>🔑
+- 🔑**`(Mega.nz Key for Download:`** ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As)🔑
 
-✅ <b>Features
+✅ Features
 - Can show and look ID Card, Driving license and Weapon License
 - Default menu open key "F9" (Can change in client.lua:600) ((if IsControlPressed(0, Keys["F9"]))
 
