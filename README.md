@@ -1,4 +1,4 @@
-# ID Menu
+# ID Menu - esx_IDmenu - esx_hunting
 FiveM - ID Menu for jsfour-idcard
 
 🛠 Requirements
